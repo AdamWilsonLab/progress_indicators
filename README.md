@@ -55,3 +55,9 @@ it:
 - Open the file "progress_dots.ppt"
 - Under the "Macros" submenu of the "Tools" menu, slect "Visual Basic
   Editor"
+
+History
+------
+This macro was originally written by Ed Loper and available
+ [here](http://ed.loper.org/projects/progress_dots/).  It has been
+ modified to work on OS X Powerpoint 2016 and shared in this repository.
