@@ -6,6 +6,8 @@ the top border, corresponding to slides; and these dots change color
 as you advance through the presentation.  The dots can be grouped into
 "sections," to indicate the overall structure of your talk.
 
+![](img/progress_dots.jpg)
+
 Installing
 ----------
 To install progress dots:
