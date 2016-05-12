@@ -1,6 +1,8 @@
 MIT License
 -------
+
 Original work  Copyright (C) 2007 Edward Loper
+
 Modified work  Copyright (C) 2016 Adam M. Wilson
 
 Permission is hereby granted, free of charge, to any person obtaining
