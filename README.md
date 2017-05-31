@@ -1,10 +1,6 @@
 Progress Dots
 =============
-This macro adds a toolbar to PowerPoint that can be used to create a
-"progress bar" for your presentation.  A series of dots is drawn across
-the top border, corresponding to slides; and these dots change color
-as you advance through the presentation.  The dots can be grouped into
-"sections," to indicate the overall structure of your talk.
+This macro adds a toolbar to PowerPoint that can be used to create a "progress bar" for your presentation.  A series of dots is drawn across the top border, corresponding to slides; and these dots change color as you advance through the presentation.  The dots can be grouped into "sections," to indicate the overall structure of your talk.
 
 ![](img/progress_dots.jpg)
 
@@ -34,6 +30,15 @@ The toolbar includes four buttons:
   and then draws the progress bar on each slide.  (This can be slow
   for large powerpoint presentations.)
 
+  * _Spacing:_ Easily adjust the left, right and top margin of the dots. I added a slider to change the spacing between sections in an easy way. Next to the slider a value is show, so that you are able to replicate the settings later again.
+  ![](img/01_Spacing.png)
+
+  * _Fonts and Colors_:  A slider for the dot size (with a text value for later reproduction). On the left and right, you can change the colors of the (un)seen dots now easily and you get direct visual feedback: The corresponding labels are colored accordingly. Further, you can use a button to either load base fonts or all fonts installed on your machine. A preview of the font is shown.
+  ![](img/02_Fonts_and_Colors.png)
+
+  * _Sections_: Remove sections by simply selecting those and clicking the remove button!
+  ![](img/03_Sections.png)
+
 - **Refresh:** redraws the progress bar.  You will need to use this
   after adding or removing slides, or section labels.
 
@@ -59,5 +64,4 @@ it:
 History
 ------
 This macro was originally written by Ed Loper and available
- [here](http://ed.loper.org/projects/progress_dots/).  It has been
- modified to work on OS X Powerpoint 2016 and shared in this repository.
+ [here](http://ed.loper.org/projects/progress_dots/) with extensive edits by Olaf Nöhring, http://www.datenbank-projekt.de

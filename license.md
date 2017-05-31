@@ -5,6 +5,8 @@ Original work  Copyright (C) 2007 Edward Loper
 
 Modified work  Copyright (C) 2016 Adam M. Wilson
 
+Modified work  Copyright (C) 2017 Olaf Nöhring http://www.datenbank-projekt.de
+
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and any associated documentation files (the
 "Software"), to deal in the Software without restriction, including
