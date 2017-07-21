@@ -11,11 +11,11 @@ There is no internal possibility to create a progress indicator in PowerPoint. T
 
 # The Solution: This Tool
 
-The Progress Indicator was originally developed by Edgar Loper, modified by Adam Wilson and heavily extended by Olaf Nöhring.
+The Progress Indicator was originally developed by [Edgar Loper](http://ed.loper.org/projects/progress_dots/), modified by [Adam Wilson](http://adamwilson.us) and heavily extended by [Olaf Nöhring](http://www.datenbank-projekt.de/index.php/kontakt).  See [Olaf's webpage about the project  here](http://www.datenbank-projekt.de/index.php/beispiele/progress-indicator-powerpoint-2010-2013-2016-32-and-64-bit-windows-and-mac-os)
 
 It should work on Microsoft Office 2016 (also 2010 and 2013), 32bit and 64bit versions and on MAC OS as well as on Windows! This page illustrates some features and includes a download link directly from the (last) developer.
 
-Is this macro safe? Yes. Also, you get not only the PowerPoint add-in, but also the source code so you can always check it out yourself (and change it if you like).  If you are interested in contributing to the development of the add-in contact me directly or see the github page to contact Adam.
+Is this macro safe? Yes. Also, you get not only the PowerPoint add-in, but also the source code so you can always check it out yourself (and change it if you like).  If you are interested in contributing to the development of the add-in contact me directly or see the [github page to contact Adam](https://github.com/AdamWilsonLab/progress_indicators).
 
 ## So tell me, what does it look like? What can it do?
 
@@ -187,3 +187,7 @@ If you'd like to edit the macro, to make your own customizations to it. It would
 The video shows off Progress Indicator version 1.826 on a Windows 10 machine running on MS Office 2016.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i7o4lBX0CRY" frameborder="0" allowfullscreen></iframe>
+
+## Suggestions? Questions? Wishes?
+
+Please let me know using the contact form.
